@@ -1,14 +1,14 @@
 prectica de git
 
 carpeta proyecto 1
+con el comando
+git reset ... --hard
 
 creacion de un texto plano
 para la practica git
 
 seguiendo los cambio del video
 para la alteracion del archivo
-
-de texto plano
 
 errores en la creacion de email
 y creacion de usuario
