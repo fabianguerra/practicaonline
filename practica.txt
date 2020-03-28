@@ -1,4 +1,8 @@
 prectica de git
 
+@@@@@@@@@@@@@@
+
 practica en github desde local
 a repositorio online
+
+@@@@@@@@@@@@@@
