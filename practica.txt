@@ -1,16 +1,14 @@
+//////////inicio header////
 prectica de git
 
-carpeta proyecto 1
-con el comando
-git reset ... --hard
+practica en github desde local
+a repositorio online
 
-creacion de un texto plano
-para la practica git
+creo mas contenido en el texto
+plano
 
-seguiendo los cambio del video
-para la alteracion del archivo
+para cubrir la cuota
+del curso online
+/////////header/////////
 
-errores en la creacion de email
-y creacion de usuario
-
-archivo modificado
+comprobar errores en header
