@@ -1,3 +1,4 @@
+//////////inicio header////
 prectica de git
 
 practica en github desde local
@@ -8,3 +9,4 @@ plano
 
 para cubrir la cuota
 del curso online
+/////////header/////////
