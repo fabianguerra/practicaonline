@@ -10,3 +10,5 @@ plano
 para cubrir la cuota
 del curso online
 /////////header/////////
+
+comprobar errores en header
